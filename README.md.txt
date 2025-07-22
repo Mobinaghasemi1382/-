@@ -17,7 +17,8 @@
 ### نصب و اجرا
 ```bash
 # 1. کپی کردن پروژه
-git clone https://github.com/Mobinaghasemi1382/-.git
+git clone https://github.com/username/perfume-shop.git
+
 # 2. نصب بسته‌ها
 npm install
 
